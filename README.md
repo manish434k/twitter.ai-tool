@@ -3,7 +3,7 @@ AI enabled tool for twitter account management
 
 **Feature List**
 
-1. Uses frompt for Google gemini GenAI to create tweet 
+1. Uses prompt for Google gemini GenAI to create tweet 
 2. Creates post on twitter
 
 
